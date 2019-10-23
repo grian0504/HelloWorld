@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Login",
+            "request": "launch",
+            "mainClass": "test.Login"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - cc",
+            "request": "launch",
+            "mainClass": "cc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Login",
+            "request": "launch",
+            "mainClass": "Login"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - whocares",
+            "request": "launch",
+            "mainClass": "whocares"
+        }
+    ]
+}
