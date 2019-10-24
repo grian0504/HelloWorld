@@ -2,6 +2,114 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - demo",
+            "request": "launch",
+            "mainClass": "demo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Demo",
+            "request": "launch",
+            "mainClass": "onlyfun.caterpillar.Demo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PackageDemo",
+            "request": "launch",
+            "mainClass": "onlyfun.caterpillar.PackageDemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PackageDemo",
+            "request": "launch",
+            "mainClass": "PackageDemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - InnerDemo",
+            "request": "launch",
+            "mainClass": "InnerDemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - classDemo",
+            "request": "launch",
+            "mainClass": "classDemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Demo",
+            "request": "launch",
+            "mainClass": "Demo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Testargs",
+            "request": "launch",
+            "mainClass": "Testargs"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Student",
+            "request": "launch",
+            "mainClass": "Student"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - class_test",
+            "request": "launch",
+            "mainClass": "class_test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - 小明",
+            "request": "launch",
+            "mainClass": "wang.小明"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - 王",
+            "request": "launch",
+            "mainClass": "wang.王"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - XIAO",
+            "request": "launch",
+            "mainClass": "wang.XIAO"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - 王",
+            "request": "launch",
+            "mainClass": "xx.王"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - xx",
+            "request": "launch",
+            "mainClass": "xx.xx"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - xx",
+            "request": "launch",
+            "mainClass": "王.xx"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - 王",
+            "request": "launch",
+            "mainClass": "王"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Login",
             "request": "launch",
             "mainClass": "test.Login"
